@@ -175,7 +175,7 @@ nav a:hover::after {
     animation: slideInLeft 0.8s ease-out forwards;
 }
 
-.texto-hero h1 .word:nth-child(4) {
+.texto-hero h1 .word:nth-child(2) {
 
     background: linear-gradient(135deg, var(--Rosa-magenta), var(--Med-purpura));
     -webkit-background-clip: text;
